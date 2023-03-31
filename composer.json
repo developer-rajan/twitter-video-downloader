@@ -1,0 +1,21 @@
+{
+    "name": "julitroalves/twitter-video-downloader",
+    "description": "With this package you can download videos from twitter based in your tweet url.",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TwitterVideoDownloader\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julio Alves",
+            "email": "julitroalves@gmail.com"
+        }
+    ],
+    "license": "MIT"
+}
