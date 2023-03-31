@@ -5,7 +5,7 @@ Supported url: https://twitter.com/i/status/1306552753636941824
 
 Install
 ```
-composer require julitroalves/twitter-video-downloader;
+composer require rajandev/twitter-video-downloader;
 ```
 
 Usage:
