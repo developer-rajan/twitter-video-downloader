@@ -1,5 +1,5 @@
 {
-    "name": "julitroalves/twitter-video-downloader",
+    "name": "rajandev/twitter-video-downloader",
     "description": "With this package you can download videos from twitter based in your tweet url.",
     "type": "library",
     "require": {
@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "Julio Alves",
-            "email": "julitroalves@gmail.com"
+            "name": "Rajan Kumar",
+            "email": "developer.rajan2@gmail.com"
         }
     ],
     "license": "MIT"
